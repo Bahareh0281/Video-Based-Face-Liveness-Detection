@@ -98,4 +98,4 @@ This project was conducted under the supervision of **Dr. Mohammadi** as part of
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Bahareh0281/Video-Based-Face-Liveness-Detection/blob/main/LICENSE) file for details.
