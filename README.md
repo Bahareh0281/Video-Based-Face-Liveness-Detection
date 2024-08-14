@@ -80,7 +80,7 @@ The dataset used in this project is a combination of the
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Bahareh0281/Video-Based-Face-Liveness-Detection.git
-   cd anti-spoofing-algorithm
+   cd Video-Based-Face-Liveness-Detection
    ```
 
 2. **Install dependencies:**
